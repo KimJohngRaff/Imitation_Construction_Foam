@@ -1,5 +1,5 @@
 {
-  "parent": "icf:block/blockenderpaste",
+  "parent": "icf:block/blockenderiumpaste",
   "display": {
     "thirdperson": {
       "rotation": [ 10, -45, 170 ],

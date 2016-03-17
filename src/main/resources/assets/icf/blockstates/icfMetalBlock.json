@@ -52,9 +52,9 @@
           "all": "icf:blocks/blockweakenedquartz"
         }
       },
-      "blockenderpaste": {
+      "blockenderiumpaste": {
         "textures": {
-          "all": "icf:blocks/blockenderpaste"
+          "all": "icf:blocks/blockenderiumpaste"
         }
       },
       "blockenderium": {

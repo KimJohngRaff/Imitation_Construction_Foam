@@ -1,5 +1,5 @@
 {
-  "parent": "icf:block/potassium_nitrateOre",
+  "parent": "icf:block/saltpeterOre",
   "display": {
     "thirdperson": {
       "rotation": [ 10, -45, 170 ],

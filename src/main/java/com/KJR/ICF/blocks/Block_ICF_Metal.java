@@ -21,7 +21,7 @@ import net.minecraftforge.fml.relauncher.SideOnly;
 import com.KJR.ICF.ICF_Global;
 import com.KJR.ICF.Main;
 import com.KJR.ICF.api.iface.IMetaBlockName;
-import com.KJR.ICF.api.registry.ICF_Blocks;
+import com.KJR.ICF.registry.ICF_Blocks;
 
 public class Block_ICF_Metal extends Block implements IMetaBlockName {
 	

@@ -6,7 +6,7 @@ import java.util.List;
 import com.KJR.ICF.ICF_Global;
 import com.KJR.ICF.Main;
 import com.KJR.ICF.api.iface.IMetaBlockName;
-import com.KJR.ICF.api.registry.ICF_Blocks;
+import com.KJR.ICF.registry.ICF_Blocks;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
